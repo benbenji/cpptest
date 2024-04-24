@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/cppproject/build",
+  "command": "D:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\cproject.dir\\main.cpp.obj -c D:\\cppproject\\main.cpp",
+  "file": "D:/cppproject/main.cpp",
+  "output": "CMakeFiles/cproject.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/cppproject/build",
+  "command": "D:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\invesetree.dir\\invesetree.cpp.obj -c D:\\cppproject\\invesetree.cpp",
+  "file": "D:/cppproject/invesetree.cpp",
+  "output": "CMakeFiles/invesetree.dir/invesetree.cpp.obj"
+}
+]
